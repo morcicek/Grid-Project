@@ -16,6 +16,7 @@
 ### Screenshot
 
 ![](./images/screenShot.jpg)
+![](./screenShot.gif)
 
 This is project's simple view...
 
